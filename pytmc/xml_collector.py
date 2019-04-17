@@ -6,6 +6,7 @@ interpretations. Db Files can be produced from the interpretation
 """
 import logging
 import functools
+import re
 import xml.etree.ElementTree as ET
 
 from collections import defaultdict
