@@ -12,7 +12,9 @@ TEST_PATH = pathlib.Path(__file__).parent
 DBD_FILE = TEST_PATH / 'ads.dbd'
 
 TMC_ROOT = TEST_PATH / 'tmc_files'
+DBD_ROOT = TEST_PATH / 'dbd_files'
 TMC_FILES = list(TMC_ROOT.glob('*.tmc'))
+DBD_FILES = list(DBD_ROOT.glob('*.dbd'))
 INVALID_TMC_FILES = list((TMC_ROOT / 'invalid').glob('*.tmc'))
 PROJ_ROOT = TEST_PATH / 'projects'
 
@@ -25,6 +27,11 @@ def dbd_file():
 @pytest.fixture(params=TMC_FILES,
                 ids=[f.name for f in TMC_FILES])
 def tmc_filename(request):
+    return request.param
+
+@pytest.fixture(params=DBD_FILES,
+                ids=[f.name for f in DBD_FILES])
+def dbd_filename(request):
     return request.param
 
 

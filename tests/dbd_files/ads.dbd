@@ -1,0 +1,1672 @@
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0000:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...ol.entries[0].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[0].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0001:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...ol.entries[1].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[1].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0002:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...ol.entries[2].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[2].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0003:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...ol.entries[3].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[3].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0004:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...ol.entries[4].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[4].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0005:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...ol.entries[5].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[5].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0006:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...ol.entries[6].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[6].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0007:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...ol.entries[7].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[7].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0008:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...ol.entries[8].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[8].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0009:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...ol.entries[9].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[9].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0010:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[10].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[10].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0011:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[11].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[11].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0012:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[12].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[12].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0013:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[13].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[13].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0014:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[14].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[14].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0015:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[15].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[15].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0016:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[16].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[16].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0017:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[17].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[17].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0018:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[18].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[18].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0019:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[19].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[19].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0020:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[20].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[20].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0021:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[21].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[21].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0022:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[22].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[22].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0023:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[23].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[23].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0024:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[24].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[24].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0025:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[25].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[25].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0026:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[26].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[26].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0027:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[27].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[27].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0028:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[28].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[28].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0029:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[29].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[29].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0030:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[30].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[30].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0031:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[31].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[31].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0032:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[32].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[32].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0033:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[33].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[33].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0034:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[34].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[34].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0035:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[35].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[35].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0036:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[36].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[36].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0037:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[37].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[37].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0038:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[38].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[38].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0039:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[39].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[39].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0040:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[40].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[40].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0041:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[41].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[41].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0042:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[42].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[42].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0043:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[43].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[43].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0044:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[44].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[44].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0045:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[45].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[45].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0046:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[46].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[46].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0047:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[47].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[47].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0048:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[48].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[48].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0049:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[49].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[49].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0050:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[50].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[50].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0051:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[51].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[51].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0052:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[52].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[52].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0053:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[53].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[53].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0054:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[54].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[54].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0055:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[55].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[55].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0056:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[56].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[56].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0057:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[57].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[57].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0058:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[58].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[58].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0059:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[59].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[59].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0060:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[60].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[60].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0061:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[61].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[61].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0062:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[62].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[62].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0063:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[63].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[63].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0064:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[64].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[64].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0065:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[65].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[65].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0066:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[66].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[66].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0067:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[67].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[67].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0068:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[68].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[68].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0069:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[69].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[69].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0070:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[70].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[70].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0071:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[71].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[71].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0072:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[72].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[72].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0073:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[73].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[73].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0074:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[74].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[74].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0075:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[75].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[75].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0076:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[76].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[76].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0077:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[77].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[77].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0078:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[78].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[78].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0079:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[79].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[79].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0080:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[80].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[80].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0081:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[81].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[81].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0082:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[82].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[82].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0083:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[83].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[83].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0084:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[84].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[84].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0085:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[85].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[85].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0086:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[86].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[86].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0087:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[87].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[87].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0088:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[88].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[88].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0089:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[89].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[89].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0090:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[90].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[90].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0091:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[91].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[91].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0092:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[92].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[92].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0093:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[93].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[93].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0094:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[94].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[94].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0095:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[95].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[95].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0096:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[96].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[96].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0097:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[97].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[97].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0098:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[98].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[98].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0099:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1...l.entries[99].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[99].key?")
+}
+
+record(longin, "ARBITER:K:Arbiter1:AssertionPool:Entries:0100:Key_RBV") {
+  field(DESC, "ads:GVL.g_fbArbiter1....entries[100].key")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.g_fbArbiter1.fbBPAssertionPool.entries[100].key?")
+}
+
+record(ai, "ARBITER:K:BP:Attenuation_RBV") {
+  field(DESC, "ads:GVL.bp.fAtt")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynFloat64")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.fAtt?")
+  field(PREC, "3")
+  info(autosave_pass0, "PREC")
+}
+
+record(longin, "ARBITER:K:BP:BeamClass_RBV") {
+  field(DESC, "ads:GVL.bp.nBeamClass")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.nBeamClass?")
+}
+
+record(longin, "ARBITER:K:BP:Rate_RBV") {
+  field(DESC, "ads:GVL.bp.nRate")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.nRate?")
+}
+
+record(ai, "ARBITER:K:BP:BunchEnergy_RBV") {
+  field(DESC, "ads:GVL.bp.fPP_mJ")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynFloat64")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.fPP_mJ?")
+  field(PREC, "3")
+  info(autosave_pass0, "PREC")
+}
+
+record(longin, "ARBITER:K:BP:PhotonEnergyRange_RBV") {
+  field(DESC, "ads:GVL.bp.neVRange")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.neVRange?")
+}
+
+record(ai, "ARBITER:K:BP:PhotonEnergy_RBV") {
+  field(DESC, "ads:GVL.bp.reV")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynFloat64")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.reV?")
+  field(PREC, "3")
+  info(autosave_pass0, "PREC")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:001:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[1].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[1].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:002:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[2].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[2].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:003:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[3].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[3].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:004:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[4].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[4].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:005:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[5].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[5].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:006:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[6].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[6].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:007:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[7].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[7].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:008:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[8].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[8].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:009:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[9].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[9].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:010:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[10].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[10].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:011:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[11].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[11].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:012:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[12].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[12].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:013:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[13].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[13].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:014:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[14].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[14].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:015:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[15].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[15].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:016:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[16].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[16].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:017:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[17].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[17].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:018:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[18].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[18].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:019:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[19].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[19].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:020:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[20].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[20].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:021:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[21].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[21].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:022:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[22].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[22].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:023:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[23].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[23].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:024:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[24].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[24].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:025:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[25].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[25].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:026:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[26].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[26].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:027:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[27].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[27].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:028:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[28].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[28].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:029:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[29].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[29].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:030:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[30].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[30].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:031:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[31].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[31].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(waveform, "ARBITER:K:BP:Stopper:032:DeviceID_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[32].DeviceID")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt8ArrayIn")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[32].DeviceID?")
+  field(FTVL, "CHAR")
+  field(NELM, "80")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:001:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[1].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[1].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:002:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[2].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[2].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:003:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[3].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[3].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:004:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[4].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[4].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:005:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[5].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[5].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:006:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[6].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[6].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:007:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[7].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[7].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:008:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[8].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[8].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:009:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[9].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[9].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:010:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[10].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[10].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:011:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[11].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[11].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:012:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[12].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[12].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:013:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[13].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[13].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:014:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[14].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[14].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:015:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[15].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[15].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:016:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[16].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[16].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:017:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[17].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[17].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:018:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[18].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[18].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:019:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[19].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[19].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:020:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[20].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[20].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:021:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[21].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[21].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:022:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[22].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[22].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:023:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[23].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[23].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:024:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[24].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[24].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:025:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[25].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[25].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:026:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[26].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[26].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:027:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[27].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[27].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:028:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[28].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[28].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:029:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[29].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[29].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:030:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[30].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[30].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:031:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[31].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[31].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}
+
+record(bi, "ARBITER:K:BP:Stopper:032:In_RBV") {
+  field(DESC, "ads:GVL.bp.astStoppers[32].In")
+  field(SCAN, "I/O Intr")
+  field(PINI, "1")
+  field(TSE, "-2")
+  field(DTYP, "asynInt32")
+  field(INP, "@asyn($(PORT),0,1)ADSPORT=851/GVL.bp.astStoppers[32].In?")
+  field(ZNAM, "Zero")
+  field(ONAM, "One")
+}

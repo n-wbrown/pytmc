@@ -61,6 +61,8 @@ def test_xmltranslate(project_filename):
 def test_db(tmc_filename):
     db_main(tmc_filename)
 
+def test_db_w_dbd(tmc_filename, dbd_filename):
+    db_main(tmc_filename, dbd_filename)
 
 def test_types(qtbot, tmc_filename):
     widget = create_types_gui(tmc_filename)
